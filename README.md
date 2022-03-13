@@ -25,7 +25,7 @@
 - Footer with company information
 
 ## Screenshots
-![Example SC](/Coderefractor.png)
+![Screenshot](/Horiseonscreenshot.png)
 
 ## Project Status
 Project is: _complete_
