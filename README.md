@@ -1,5 +1,5 @@
 # Horiseon-Code-Refactor
-> Refacotored a marketing agency's existing website to make it accesible and optimized for search engines.
+> Refactored a marketing agency's existing website to make it accessible and optimized for search engines.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -24,9 +24,8 @@
 - Images have SEO tags
 - Footer with company information
 
-
 ## Screenshots
-![Example screenshot](./assets/images/Horiseon Site Screenshot.pdf)
+!(Example screenshot] (./assets/images/Horiseon Site Screenshot.pdf)
 
 ## Project Status
 Project is: _complete_
@@ -40,7 +39,8 @@ Room for improvement:
 - Floating header as the user scrolls down the page
 
 ## Acknowledgements
-Project in Module 1 for University of Minnesota Coding Bootcamp 2022
+-Project in Module 1 for University of Minnesota Coding Bootcamp 2022
+-[readme reference] (https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 
 ## Contact
 Created by [@ajpottebaum](git@github.com:ajpottebaum/ajpottebaum.git) - feel free to contact me!
