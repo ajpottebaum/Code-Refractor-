@@ -20,7 +20,7 @@
 - CSS
 
 ## Features
-- Intuitive header with links
+- Intuitive header with linksgi
 - Images have SEO tags
 - Footer with company information
 
